@@ -2,13 +2,14 @@
 // @name         ServiceNow Environment Marker
 // @namespace    http://tampermonkey.net/
 // @version      1.9
-// @description  Set custom favicon with colored dot and diagonal banner
+// @description  Set custom favicon with colored dot and diagonal banner.
 // @author       Sanket Priyadarshi
 // @match        *://*.service-now.com/*
 // @match        *://*.servicenow.com/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/s-priyadarshi/servicenow-environment-marker/refs/heads/main/main.js
 // @updateURL    https://raw.githubusercontent.com/s-priyadarshi/servicenow-environment-marker/refs/heads/main/main.js
+// @source       https://github.com/s-priyadarshi/servicenow-environment-marker
 // ==/UserScript==
 
 (function () {
