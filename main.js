@@ -7,8 +7,8 @@
 // @match        *://*.service-now.com/*
 // @match        *://*.servicenow.com/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/s-priyadarshi/servicenow-environment-marker/refs/heads/main/main.js
-// @updateURL    https://raw.githubusercontent.com/s-priyadarshi/servicenow-environment-marker/refs/heads/main/main.js
+// @downloadURL  https://raw.githubusercontent.com/s-priyadarshi/sn-environment-marker/refs/heads/main/main.js
+// @updateURL    https://raw.githubusercontent.com/s-priyadarshi/sn-environment-marker/refs/heads/main/main.js
 // ==/UserScript==
 
 (function () {
