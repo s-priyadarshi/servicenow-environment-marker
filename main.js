@@ -9,7 +9,6 @@
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/s-priyadarshi/servicenow-environment-marker/refs/heads/main/main.js
 // @updateURL    https://raw.githubusercontent.com/s-priyadarshi/servicenow-environment-marker/refs/heads/main/main.js
-// @source       https://github.com/s-priyadarshi/servicenow-environment-marker
 // ==/UserScript==
 
 (function () {
