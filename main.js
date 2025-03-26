@@ -9,7 +9,6 @@
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/s-priyadarshi/sn-environment-marker/refs/heads/main/main.js
 // @updateURL    https://raw.githubusercontent.com/s-priyadarshi/sn-environment-marker/refs/heads/main/main.js
-// @homepageURL  https://github.com/s-priyadarshi/sn-environment-marker
 // ==/UserScript==
 
 (function () {
