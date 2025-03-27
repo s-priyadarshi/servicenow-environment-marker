@@ -45,9 +45,9 @@
         sandbox: { color: 'gold', label: 'Sandbox Environment' },
         demo: { color: 'pink', label: 'Demo Environment' },
         temp: { color: 'lightblue', label: 'Temp Environment' },
-        perf: { color: 'black', label: 'Perf Environment' },
+        perf: { color: 'blueviolet', label: 'Perf Environment' },
         poc: { color: 'teal', label: 'POC Environment' },
-        aiagent: { color: 'blueviolet', label: 'Demonstration Env' },
+        aiagent: { color: 'black', label: 'AI Demo Environment' },
         prod: { color: 'red', label: 'Prod Environment' }
     };
 
