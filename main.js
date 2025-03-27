@@ -47,6 +47,7 @@
         temp: { color: 'lightblue', label: 'Temp Environment' },
         perf: { color: 'black', label: 'Perf Environment' },
         poc: { color: 'teal', label: 'POC Environment' },
+        aiagent: { color: 'blueviolet', label: 'Demonstration Env' },
         prod: { color: 'red', label: 'Prod Environment' }
     };
 
@@ -73,6 +74,8 @@
         environment = 'perf';
     } else if (url.includes('poc')) {
         environment = 'poc';
+    } else if (url.includes('aiagent')) {
+        environment = 'aiagent';
     }
 
     // Create a new favicon element
