@@ -30,5 +30,4 @@ Developers, admins, and power users who need a fast, reliable way to stay visual
 
 ## ⚠️ Note
 
-Environment detection is based on **standard subdomain keywords**.  
-If your instance uses non-standard naming, visual cues may not appear correctly.
+Environment detection is based on **standard subdomain keywords**. If your instance uses non-standard naming, visual cues may not appear correctly.
