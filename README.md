@@ -1,34 +1,34 @@
-# ServiceNow Environment Marker 🚀
+# Where Am I
 
-A Chrome extension to visually distinguish between ServiceNow environments (Dev, QA, UAT, Prod, etc.) using custom favicons and diagonal banners.
-
-> Reduce accidental changes in the wrong instance. Instantly recognize your current environment at a glance.
+> Helps you visually identify your current ServiceNow environment.
 
 ---
 
-## 🔍 Features
+## 🧭 Know where you are in ServiceNow—instantly.
 
-- 🟢 Adds a **colored favicon dot** to match the environment type.
-- 🎏 Displays a **diagonal banner** (e.g., “Dev Environment”) based on hostname.
-- 🧠 Automatically detects the environment using subdomain/URL keywords.
-- 💡 Runs only on `*.service-now.com` and `*.servicenow.com`.
-- 🔒 No tracking, no data collection, 100% client-side.
+**Where Am I** adds subtle visual indicators to your ServiceNow instances, helping you distinguish environments at a glance.
+
+Whether you're switching between `dev`, `test`, `staging`, or `production`, this extension overlays a clean, color-coded **diagonal banner** and updates the **favicon** based on the environment name in the URL.
 
 ---
 
-## 🎯 Supported Environments
+## ✨ Features
 
-The extension detects and supports most ServiceNow environments from the URL and applies color-coded markers.
-
-## 📦 Installation
-
-1. **[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/servicenow-environment-marker/)** (Coming soon)
-
-## 🔐 Privacy
-
-This extension does **not** collect, store, or transmit any user data.  
-All functionality runs locally in your browser.
-
-📄 [View Privacy Policy](https://github.com/s-priyadarshi/sn-environment-marker/blob/main/privacy-policy.md)
+- 🎯 Replaces the default favicon with a color-coded dot  
+- 🎏 Displays a diagonal banner (e.g., “Dev Environment”) based on URL  
+- 🧠 Automatically detects environment using common URL keywords (`dev`, `uat`, `prod`, etc.)  
+- 🌐 Runs only on `*.service-now.com` and `*.servicenow.com`  
+- 🔒 No tracking, no data collection — 100% client-side
 
 ---
+
+## 💼 Built For
+
+Developers, admins, and power users who need a fast, reliable way to stay visually oriented when working across multiple ServiceNow instances.
+
+---
+
+## ⚠️ Note
+
+Environment detection is based on **standard subdomain keywords**.  
+If your instance uses non-standard naming, visual cues may not appear correctly.
