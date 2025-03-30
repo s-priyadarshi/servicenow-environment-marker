@@ -8,13 +8,13 @@
 
 **Where Am I** adds subtle visual indicators to your ServiceNow instances, helping you distinguish environments at a glance.
 
-Whether you're switching between `dev`, `test`, `staging`, or `production`, this extension overlays a clean, color-coded **diagonal banner** and updates the **favicon** based on the environment name in the URL.
+Whether you're switching between `dev`, `test`, `staging`, or `production`, this extension overlays a clean, colored **diagonal banner** and updates the **favicon** based on the environment name in the URL.
 
 ---
 
 ## ✨ Features
 
-- 🎯 Replaces the default favicon with a color-coded dot  
+- 🎯 Replaces the default favicon with a colored dot  
 - 🎏 Displays a diagonal banner (e.g., “Dev Environment”) based on URL  
 - 🧠 Automatically detects environment using common URL keywords (`dev`, `uat`, `prod`, etc.)  
 - 🌐 Runs only on `*.service-now.com` and `*.servicenow.com`  
